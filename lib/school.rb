@@ -21,7 +21,6 @@ class School
     end 
   end 
   
-School.roster
 School.add_student("Zach Morris", 9)
 School.roster
 School.add_student("AC Slater", 9)
